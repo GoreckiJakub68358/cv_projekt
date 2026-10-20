@@ -1,4 +1,4 @@
-# 📄 Interaktywne CV – Projekt Semestralny
+ # 📄 Interaktywne CV – Projekt Semestralny
 
 > - **Przedmiot:** Projektowanie multimedialnych stron internetowych
 > - **Uczelnia:** Akademia Finansów i Biznesu Vistula
@@ -6,8 +6,8 @@
 
 ## 🔗 Linki
 
-- 📁 **Repozytorium:** [https://github.com/GoreckiJakub68358/zad4-8_javascript-projekt](https://github.com/GoreckiJakub68358/zad4-8_javascript-projekt)
-- 🌐 **GitHub Pages:** [https://goreckijakub68358.github.io/zad4-8_javascript-projekt/](https://goreckijakub68358.github.io/zad4-8_javascript-projekt/)
+- 📁 **Repozytorium:** [https://github.com/GoreckiJakub68358/cv_projekt](https://github.com/GoreckiJakub68358/zad4-8_javascript-projekt)
+- 🌐 **GitHub Pages:** [https://goreckijakub68358.github.io/cv_projekt](https://goreckijakub68358.github.io/zad4-8_javascript-projekt/)
 - 🟥 **Formspree API (test backendu):** [https://formspree.io/forms/mgopkqer/submissions](https://formspree.io/forms/mgopkqer/submissions)
 
 ---
